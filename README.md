@@ -8,4 +8,4 @@
 
 * [Tapestry](https://tapestrylearn.com): A web-based code visualization tool that generates memory diagrams for Python code snippets.
 * [pensiv](https://www.github.com/arthurlafrance/pensiv): A Rust-based AI & machine learning library that doubles as a place for me to experiment with both Rust and AI/ML.
-* [BotNet](https://www.github.com/arthurlafrance/BotNet): An ongoing collection of miscellaneous AI-based programs I feel inspired to write, packaged together in a simple CLI.
+* [BotNet](https://www.github.com/arthurlafrance/BotNet): An ongoing collection of miscellaneous AI-based programs I feel inspired to write, packaged in a simple CLI.
