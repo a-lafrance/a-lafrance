@@ -2,7 +2,7 @@
 
 * A 2nd year CS student @ UCI
 * Interested in AI & machine learning (mainly reinforcement learning, NLP, & neural networks/deep learning for those curious)
-* A passionate software developer with full-stack web & iOS development experience
+* A software developer with full-stack web & iOS development experience
 
 #### I'm currently working on several ongoing projects:
 
