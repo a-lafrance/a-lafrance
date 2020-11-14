@@ -3,6 +3,7 @@
 * A 2nd year CS student @ UCI
 * Interested in AI & machine learning (mainly reinforcement learning, NLP, & neural networks/deep learning for those curious)
 * A software developer with full-stack web & iOS development experience
+* Owner of lafrance.com and the @lafrance clothing line
 
 #### I'm currently working on several ongoing projects:
 
