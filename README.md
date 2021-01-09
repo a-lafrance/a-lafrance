@@ -1,7 +1,7 @@
 ### Hi! I'm Arthur Lafrance. I'm...
 
 * A 2nd year CS student @ UCI
-* Interested in AI & machine learning (mainly reinforcement learning, NLP, & neural networks/deep learning for those curious)
+* Interested in AI & machine learning both in theory and in practice
 * A software developer with full-stack web & iOS development experience
 
 #### I'm currently working on several ongoing projects:
