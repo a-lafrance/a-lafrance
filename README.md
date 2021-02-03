@@ -1,8 +1,8 @@
 ### Hi! I'm Arthur Lafrance. I'm...
 
 * A 2nd year CS student @ UCI
-* Interested in AI & machine learning both in theory and in practice
-* A software developer with full-stack web & iOS development experience
+* Incoming SWE Intern @ Facebook
+* Dually interested in AI/machine learning & systems software (programming languages, OSes, distributed systems, etc)
 
 #### I'm currently working on several ongoing projects:
 
