@@ -2,7 +2,7 @@
 
 * A 2nd year CS student @ UCI
 * A software developer who's usually making fun/cool/weird stuff in my free time
-* Broadly interested in computer architecture/systems, AI/machine learning, programming languages, & software engineering
+* Broadly interested in computer architecture/systems, programming languages, AI/machine learning, & software engineering
 
 #### Some stuff I'm currently working on:
 
