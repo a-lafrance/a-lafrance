@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur Lafrance. I'm...
 
-* A 2nd year CS student @ UCI
+* A CS student @ UCI
 * A software developer who's usually making fun/cool/weird stuff in my free time
 * Broadly interested in computer architecture/systems, programming languages, AI/machine learning, & software engineering
 
